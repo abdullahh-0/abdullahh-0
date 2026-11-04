@@ -42,13 +42,6 @@ More of my work is on my [repositories page](https://github.com/abdullahh-0?tab=
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
 
-### GitHub Stats
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/abdullahh-0/abdullahh-0/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
-<img src="https://raw.githubusercontent.com/abdullahh-0/abdullahh-0/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages" width="48%" />
-</p>
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/abdullahh-0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-abdullah-a0b2b731a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
